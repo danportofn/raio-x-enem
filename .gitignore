@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+# microdados do INEP (vários GB) não vão para o repositório
+microdados/
+*.csv
+*.zip
