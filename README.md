@@ -2,7 +2,7 @@
 
 Reimplementação do cálculo de nota do ENEM pela **Teoria de Resposta ao Item (TRI)**, a partir dos microdados oficiais do INEP, e um site interativo com cinco análises da prova de 2025.
 
-**[Abrir o site](#)** · Python + NumPy · JavaScript puro, sem dependências
+**[Abrir o site](https://raio-x-enem.vercel.app)** · Python + NumPy · JavaScript puro, sem dependências
 
 ## O que o projeto faz
 
